@@ -1,4 +1,4 @@
-FROM openjdk:11-jre-slim-sid
+FROM openjdk:11-jre-slim
 
 MAINTAINER PlusMinus <piddlpiddl@gmail.com>
 
